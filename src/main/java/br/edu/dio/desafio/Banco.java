@@ -1,3 +1,5 @@
+package br.edu.dio.desafio;
+
 import java.util.List;
 
 public class Banco {
